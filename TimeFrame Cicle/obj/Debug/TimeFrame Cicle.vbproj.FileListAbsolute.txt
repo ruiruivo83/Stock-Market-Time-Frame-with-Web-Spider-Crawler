@@ -1,0 +1,61 @@
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.exe
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.pdb
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.xml
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\ResolveAssemblyReference.cache
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.Resources.resources
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbproj.GenerateResource.Cache
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.exe
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.xml
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.pdb
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmAdvanced.resources
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMarketHoursBrowser.resources
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmExit.resources
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMicro.resources
+H:\VB PROJECTS\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMain.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.exe
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.pdb
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.xml
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbprojResolveAssemblyReference.cache
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmStockFundamentals.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMicro.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmAdvanced.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmExit.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMain.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMarketHoursBrowser.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.Resources.resources
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbproj.GenerateResource.Cache
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.exe
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.xml
+F:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.xml
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbprojResolveAssemblyReference.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmStockFundamentals.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMicro.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmAdvanced.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmExit.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMain.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMarketHoursBrowser.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.Resources.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbproj.GenerateResource.Cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbproj.CoreCompileInputs.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.xml
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\TimeFrame Cicle\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.pdb
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.exe
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.pdb
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\bin\Debug\TimeFrame Cicle.xml
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbprojResolveAssemblyReference.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmStockFundamentals.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMicro.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmAdvanced.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmExit.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMain.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.frmMarketHoursBrowser.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame_Cicle.Resources.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbproj.GenerateResource.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.vbproj.CoreCompileInputs.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.exe
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.xml
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- TimeFrame Cicle - OK\TimeFrame Cicle\obj\Debug\TimeFrame Cicle.pdb
